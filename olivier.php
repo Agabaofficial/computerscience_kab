@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome Form</title>
+    <title>first php program at campus</title>
     <style>
         * {
             margin: 0;

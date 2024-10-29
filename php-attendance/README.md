@@ -1,7 +1,7 @@
 # Student Attendance System
 
 ### Developed by: Agaba Olivier
-*Bachelor's of Information Technology, Kabale University*
+*Bachelor's of Computer Science, Kabale University*
 
 ---
 

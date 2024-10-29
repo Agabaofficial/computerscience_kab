@@ -1,3 +1,10 @@
+# Student Attendance System
+
+### Developed by: Agaba Olivier
+*Bachelor's of Information Technology, Kabale University*
+
+---
+
 # Technology Stack
 
 Below is the list of technologies employed in the development of this **Student Attendance System**:

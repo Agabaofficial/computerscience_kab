@@ -5,6 +5,7 @@ $actionClass = new Actions();
 $page = $_GET['page'] ?? "home";
 $page_title = ucwords(str_replace("_", " ", $page));
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <?php include_once('inc/header.php'); ?>

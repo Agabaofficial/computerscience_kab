@@ -1,5 +1,6 @@
 <?php 
 
+
 session_start();
 require_once('classes/actions.class.php');
 $actionClass = new Actions();
